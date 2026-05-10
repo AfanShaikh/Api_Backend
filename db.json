@@ -1298,7 +1298,7 @@
       "japanese_name": "禪院 蘭太",
       "title": "Member of the Hei",
       "clan": "Zen'in",
-      "image": "https://i.pinimg.com/736x/b4/0f/ae/b40fae7622b5a4559b00f107dfd96b92.jpg",
+      "image": "https://i.pinimg.com/736x/ab/88/62/ab8862ac0ab8dee0b10b612b7a6a5167.jpg",
       "role": "Antagonist",
       "status": "Deceased",
       "gender": "Male",
@@ -1308,6 +1308,40 @@
       "cursed_technique": "Eyes of the Beholder (Paralysis)",
       "domain_expansion": null,
       "anime_debut": "Episode No 42"
+    },
+    {
+      "id": 79,
+      "name": "Manami Suda",
+      "japanese_name": "菅田 真奈美",
+      "title": "Secretary of the Geto Family",
+      "clan": "",
+      "image": "https://i.pinimg.com/1200x/21/7c/74/217c741dab8e58e09a61cc9b2a6a3822.jpg",
+      "role": "Supporting Character",
+      "status": "Alive",
+      "gender": "Female",
+      "age": 28,
+      "grade": "Grade 1 (Equivalent)",
+      "affiliation": "Geto's Group",
+      "cursed_technique": "Unknown",
+      "domain_expansion": null,
+      "anime_debut": "Jujutsu Kaisen 0"
+    },
+    {
+      "id": 80,
+      "name": "Toshihisa Negi",
+      "japanese_name": "祢宜 利久",
+      "title": "Member of the Geto Family",
+      "clan": "",
+      "image": "https://i.pinimg.com/1200x/33/61/f7/3361f7851a6aa4b3354114c4408f7f5d.jpg",
+      "role": "Supporting Character",
+      "status": "Alive",
+      "gender": "Male",
+      "age": 32,
+      "grade": "Grade 1 (Equivalent)",
+      "affiliation": "Geto's Group",
+      "cursed_technique": "Unknown",
+      "domain_expansion": null,
+      "anime_debut": "Jujutsu Kaisen 0"
     }
   ]
 }
