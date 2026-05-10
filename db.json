@@ -1342,6 +1342,40 @@
       "cursed_technique": "Unknown",
       "domain_expansion": null,
       "anime_debut": "Jujutsu Kaisen 0"
+    },
+    {
+      "id": 81,
+      "name": "Eight-Handled Sword Divergent Sila Divine General Mahoraga",
+      "japanese_name": "八握剣異戒神将魔虚羅",
+      "title": "The Unstoppable Shikigami",
+      "clan": "Ten Shadows Technique",
+      "image": "https://i.pinimg.com/736x/87/c2/0f/87c20f06799908f7c04a9a6f140d3a63.jpg",
+      "role": "Major Antagonist (Summon)",
+      "status": "Destroyed",
+      "gender": "None",
+      "age": 1000,
+      "grade": "Special Grade (Equivalent)",
+      "affiliation": "Ten Shadows Technique (Sukuna/Megumi)",
+      "cursed_technique": "General Adaptation",
+      "domain_expansion": null,
+      "anime_debut": "Episode No 41"
+    },
+    {
+      "id": 82,
+      "name": "Rika",
+      "japanese_name": "リカ",
+      "title": "The Queen of Curses (Husk)",
+      "clan": "",
+      "image": "https://i.pinimg.com/736x/6f/5d/8a/6f5d8a0336f4e4672913f74787b09ebc.jpg",
+      "role": "Major Supporting Character (Shikigami)",
+      "status": "Active",
+      "gender": "Female (In Appearance)",
+      "age": 11,
+      "grade": "Special Grade (Equivalent)",
+      "affiliation": "Yuta Okkotsu",
+      "cursed_technique": "Cursed Energy Storage, Technique Mimicry Support",
+      "domain_expansion": null,
+      "anime_debut": "Episode No 24"
     }
   ]
 }
